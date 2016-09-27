@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/BatBrain/postgres-excercises#readme",
   "dependencies": {
+    "knex": "^0.12.1",
     "pg": "^6.1.0"
   }
 }
